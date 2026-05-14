@@ -1,0 +1,7 @@
+# Ignore compiled outputs
+Makefile
+/nbproject/
+/build/
+/dist/
+*.xopp
+/pcb/
